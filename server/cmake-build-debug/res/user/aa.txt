@@ -1,0 +1,10 @@
+{
+	"username":	"aa",
+	"password":	"aa",
+	"bio":	"",
+	"followers":	[],
+	"followings":	["armin"],
+	"personalTweets":	[],
+	"token":	"T6wQtJ7W0qbtrD26tWNL4CsGWwvgLgXe",
+	"":	[]
+}

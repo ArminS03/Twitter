@@ -1,0 +1,9 @@
+{
+	"id":	1,
+	"author":	"armin",
+	"content":	"armin armin",
+	"comments":	[{
+			"aa":	"salam salam"
+		}],
+	"likes":	0
+}
